@@ -23,14 +23,14 @@ any philosopher cannot know when others may want to eat or think.
 ## Documentation
 Class: Dine - it has a main method.\
 Class: Philosopher - represent the philosopher, it contains the two 
-objects to represent the chopisticks.
+objects to represent the chopsticks.
 
 Methods\
 eat - called when enter for eating.\
 think - called when enter for thinking.\
-run - overriden method for Thread class.
+run - overridden method for Thread class.
 
-Class: Chopstick - represent if chopistick is available.\
+Class: Chopstick - represent if chopstick is available.\
 Methods\
 take - called when before occupied.\
 release - called when philosopher starts thinking.\
