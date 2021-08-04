@@ -43,3 +43,8 @@ java Dine runs the program.
 javac Dine.java
 java Dine
 ```
+
+## Output screenshots
+![compile and run the program](output_screenshots/putty_BncM2lB785.png)
+![output image 1](output_screenshots/putty_n17K56mWj1.png)
+![output image 2](output_screenshots/putty_LSdIDvGv79.png)
