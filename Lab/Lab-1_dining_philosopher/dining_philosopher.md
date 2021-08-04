@@ -35,3 +35,11 @@ Methods\
 take - called when before occupied.\
 release - called when philosopher starts thinking.\
 Both methods are the synchronized method.
+
+## To compile and run the program
+javac Dine.java compiles the program\
+java Dine runs the program.
+```cmd
+javac Dine.java
+java Dine
+```
