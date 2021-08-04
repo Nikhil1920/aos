@@ -1,5 +1,5 @@
 # Implementation of dining philosopher in java
-## Given problem statment
+## Given problem statement
 Five silent philosophers sit at a table around a bowl of spaghetti. A 
 fork is placed between each pair of adjacent philosophers. (An 
 alternative problem formulation uses rice and chopsticks instead of 
