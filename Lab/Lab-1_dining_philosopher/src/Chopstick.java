@@ -1,5 +1,4 @@
 class Chopstick {
-
 	public boolean used;
 	public String _name;
 
