@@ -21,17 +21,17 @@ forever continue to alternate between eating and thinking assuming that
 any philosopher cannot know when others may want to eat or think.
 
 ## Documentation
-Class: Dine - it has a main method.
+Class: Dine - it has a main method.\
 Class: Philosopher - represent the philosopher, it contains the two 
 objects to represent the chopisticks.
 
-Methods
-eat - called when enter for eating.
-think - called when enter for thinking.
+Methods\
+eat - called when enter for eating.\
+think - called when enter for thinking.\
 run - overriden method for Thread class.
 
-Class: Chopstick - represent the chopistic available.
-Methods
-take - called when before occupied.
-release - called when philosopher starts thinking.
+Class: Chopstick - represent if chopistick is available.\
+Methods\
+take - called when before occupied.\
+release - called when philosopher starts thinking.\
 Both methods are the synchronized method.
